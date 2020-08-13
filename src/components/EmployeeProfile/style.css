@@ -1,0 +1,25 @@
+.card {
+  background: lightgrey;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: black;
+  margin: 1rem;
+  position: relative;
+  width: 325px;
+  text-align: left;
+  height:120px;
+}
+
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+.card > .content > ul {
+  list-style-type: none;
+}
+
+.card > .content > ul > li {
+  margin-top: 18px;
+}

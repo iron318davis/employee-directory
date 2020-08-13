@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Jane Doe",
+        "department": "Sales",
+        "active":"Yes"
+    },
+    {
+        "id": 2,
+        "name": "John Smith",
+        "department": "Sales",
+        "active":"Yes"
+    },
+    {
+        "id": 3,
+        "name": "John Doe",
+        "department": "Marketing",
+        "active":"No"
+    },
+    {
+        "id": 4,
+        "name": "Jane Smith",
+        "department": "Marketing",
+        "active":"Yes"
+    },
+    {
+        "id": 5,
+        "name": "Ralph Beterman",
+        "department": "Marketing",
+        "active":"No"
+    },
+    {
+        "id": 6,
+        "name": "Tommy Lane",
+        "department": "Development",
+        "active":"Yes"
+    },
+    {
+        "id": 7,
+        "name": "Christiana Bradley",
+        "department": "Development",
+        "active":"No"
+    },
+    {
+        "id": 9,
+        "name": "Ali Berry",
+        "department": "Development",
+        "active":"No"
+    },
+    {
+        "id": 10,
+        "name": "Osian Barnett",
+        "department": "Support",
+        "active":"Yes"
+    }
+
+
+]
