@@ -1,14 +1,15 @@
 import React from "react";
 
 
-function NavBar(props) {
+
+const NavBar = (props) => {
   return (
       <div>
     <h1>Employee Directory</h1>
-    <button>Sort by Name</button>
-    <button>Sort by Employee ID </button>
-    <button>Sort by Department</button>
-    <button>Filter Active Employees</button>
+    <button onClick={()=>props.sortNameClick()}>Sort by Name</button>
+    <button onClick={()=>props.sortEmployeeIDClick()}>Sort by Employee ID </button>
+    <button onClick={()=>props.sortDepartmentClick()}>Sort by Department</button>
+    <button onClick={()=>props.filterActiveClick()}>Show only Active Employees</button>
     </div>
   );
 }
